@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/mon_react/static/js/main.c71eda4f.js",
+    "static/media/two.jpg": "/mon_react/static/media/two.f1641616a1ec7bdabc91.jpg",
+    "static/media/one.jpg": "/mon_react/static/media/one.3ee5cbfb5443fae93bf2.jpg",
+    "static/media/three.jpg": "/mon_react/static/media/three.67fd671aef45b4ec5cab.jpg",
+    "static/media/c.jpg": "/mon_react/static/media/c.a8ba5cc1689347ca427c.jpg",
+    "static/media/b.jpg": "/mon_react/static/media/b.065cf87d801da0aa9099.jpg",
+    "static/media/a.jpg": "/mon_react/static/media/a.c9cac06b24126f3d952c.jpg",
+    "index.html": "/mon_react/index.html",
+    "main.c71eda4f.js.map": "/mon_react/static/js/main.c71eda4f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c71eda4f.js"
+  ]
+}
